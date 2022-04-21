@@ -1,7 +1,7 @@
 Proposta di legge T.U. “Protezione civile regionale”
 ===================
 
-Questo repository contiene la documentazione relativa a [TU Protezione Civile](). 
+Questo repository contiene la documentazione relativa al [TU Protezione Civile](). 
 In particolare, qui viene trattato [come collaborare per la stesura collaborativa del TU]().
 
 Link
