@@ -12,7 +12,6 @@ Disciplina delle attività di protezione civile (art. 11, comma 1, lettera a del
 ---------------------------------------------------------------------------------------
 1.	Le autorità territoriali di protezione civile, Sindaci e Presidente della Regione (art.  6 del Codice) promuovono, attuano e coordinano le attività di protezione civile esercitate dalle strutture organizzative di propria competenza e ne sono responsabili per i rispettivi ambiti di governo e per le funzioni di competenza.
 2.	La Giunta regionale, con deliberazione, nell'ambito del piano di cui all'articolo 5 e nel rispetto delle competenze ordinariamente spettanti a ciascuna amministrazione, definisce le modalità di attuazione delle seguenti attività: 
-
  + attività di previsione e prevenzione dei rischi;
  + attività di gestione e superamento dell’emergenza, con particolare riferimento all’attività di segnalazione degli interventi ed a quella di ricognizione dei fabbisogni a seguito di un evento.
 3.	Le autorità territoriali di protezione civile di cui al comma 1 esercitano altresì la funzione di vigilanza sullo svolgimento integrato e coordinato delle attività di protezione civile, con particolare riguardo alla attività di prevenzione non strutturale.
