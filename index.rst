@@ -38,7 +38,8 @@ Capo III – VOLONTARIATO
 -----------------------
 - Art. 12 - Volontariato regionale
 - Art. 13 - Benefici per il volontariato organizzato
-- Art. 14 - Comitato del volontariato di protezione civile Art. 15 - Contributi
+- Art. 14 - Comitato del volontariato di protezione civile 
+- Art. 15 - Contributi
 
 Capo IV – RAPPORTI CON LE STRUTTURE STATALI
 -------------------------------------------
@@ -47,13 +48,17 @@ Capo IV – RAPPORTI CON LE STRUTTURE STATALI
 
 Capo V – STRUTTURE REGIONALI
 ----------------------------
-- Art. 18 - Struttura regionale di protezione civile Art. 19 - Colonna mobile regionale
-- Art. 20 - Logo e segni distintivi - Identità visiva Art. 21 - Benemerenze
+- Art. 18 - Struttura regionale di protezione civile 
+- Art. 19 - Colonna mobile regionale
+- Art. 20 - Logo e segni distintivi - Identità visiva 
+- Art. 21 - Benemerenze
 - Art. 22 - Finanziamento del sistema regionale
 
 Capo VI – GESTIONE DELLE EMERGENZE
 ----------------------------------
-- Art. 23 - Stato di mobilitazione regionale Art. 24 - Stato di emergenza regionale Art. 25 - Stato di emergenza locale
+- Art. 23 - Stato di mobilitazione regionale 
+- Art. 24 - Stato di emergenza regionale 
+- Art. 25 - Stato di emergenza locale
 - Art. 26 - Deroghe alla normativa regionale
 - Art. 27 - Interventi per la ripresa delle normali condizioni di vita nelle aree colpite da eventi calamitosi
 
