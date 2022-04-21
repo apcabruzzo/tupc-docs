@@ -23,11 +23,11 @@ Articolo 5
 ==========
 Piano regionale di protezione civile (art. 11 comma 1, lettera a del Codice)
 ----------------------------------------------------------------------------
-1)	Il piano regionale di protezione civile rappresenta lo strumento tecnico-operativo principale mediante il quale si esplica l’attività di cui all’articolo 2 del Codice e si individuano gli elementi strategici minimi ed indispensabili per consentire l’azione di soccorso, secondo le modalità specificate dagli indirizzi nazionali sulla pianificazione, con particolare riguardo alla struttura del livello territoriale di riferimento, all’inquadramento del territorio, all’individuazione di rischi e scenari, ed al modello di intervento.  
-2)	Il piano regionale di protezione civile è composto da una parte contenente le scelte strategiche di governance correlate all'individuazione degli ambiti territoriali ottimali e disciplinata dall'articolo 6 e da una parte di carattere specificamente tecnico - operativa.   
-3)	Il piano regionale di protezione civile, con riferimento alla parte tecnico - operativa di cui al comma 2, è approvato dalla Giunta regionale, con deliberazione, anche con una pluralità di atti successivi (c. d. “stralci”).  
-5) È garantito un processo partecipato dei cittadini, in attuazione dell'articolo 18, comma 2 del  Codice,  secondo le modalità che saranno individuate dalla direttiva di cui al medesimo articolo. 
-6) Il piano regionale di protezione civile è aggiornato con le stesse modalità della sua approvazione, annualmente e comunque non oltre i tre anni dalla stessa, tenuto conto delle esperienze derivanti dalla gestione delle emergenze e/o dei risultati di eventuali esercitazioni.
+1.	Il piano regionale di protezione civile rappresenta lo strumento tecnico-operativo principale mediante il quale si esplica l’attività di cui all’articolo 2 del Codice e si individuano gli elementi strategici minimi ed indispensabili per consentire l’azione di soccorso, secondo le modalità specificate dagli indirizzi nazionali sulla pianificazione, con particolare riguardo alla struttura del livello territoriale di riferimento, all’inquadramento del territorio, all’individuazione di rischi e scenari, ed al modello di intervento.  
+2.	Il piano regionale di protezione civile è composto da una parte contenente le scelte strategiche di governance correlate all'individuazione degli ambiti territoriali ottimali e disciplinata dall'articolo 6 e da una parte di carattere specificamente tecnico - operativa.   
+3.	Il piano regionale di protezione civile, con riferimento alla parte tecnico - operativa di cui al comma 2, è approvato dalla Giunta regionale, con deliberazione, anche con una pluralità di atti successivi (c. d. “stralci”).  
+5. È garantito un processo partecipato dei cittadini, in attuazione dell'articolo 18, comma 2 del  Codice,  secondo le modalità che saranno individuate dalla direttiva di cui al medesimo articolo. 
+6. Il piano regionale di protezione civile è aggiornato con le stesse modalità della sua approvazione, annualmente e comunque non oltre i tre anni dalla stessa, tenuto conto delle esperienze derivanti dalla gestione delle emergenze e/o dei risultati di eventuali esercitazioni.
 
 
 Articolo 6
