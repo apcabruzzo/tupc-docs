@@ -7,7 +7,7 @@ Capo II - Attività di protezione civile
 =======================================
 
 Articolo 4
-----------
+==========
 Disciplina delle attività di protezione civile (art. 11, comma 1, lettera a del Codice)
 ---------------------------------------------------------------------------------------
 1)	Le autorità territoriali di protezione civile, Sindaci e Presidente della Regione (art.  6 del Codice) promuovono, attuano e coordinano le attività di protezione civile esercitate dalle strutture organizzative di propria competenza e ne sono responsabili per i rispettivi ambiti di governo e per le funzioni di competenza.
@@ -19,8 +19,7 @@ Disciplina delle attività di protezione civile (art. 11, comma 1, lettera a del
 
 
 Articolo 5
-----------
-
+==========
 Piano regionale di protezione civile (art. 11 comma 1, lettera a del Codice)
 ----------------------------------------------------------------------------
 1)	Il piano regionale di protezione civile rappresenta lo strumento tecnico-operativo principale mediante il quale si esplica l’attività di cui all’articolo 2 del Codice e si individuano gli elementi strategici minimi ed indispensabili per consentire l’azione di soccorso, secondo le modalità specificate dagli indirizzi nazionali sulla pianificazione, con particolare riguardo alla struttura del livello territoriale di riferimento, all’inquadramento del territorio, all’individuazione di rischi e scenari, ed al modello di intervento.  
@@ -32,7 +31,6 @@ Piano regionale di protezione civile (art. 11 comma 1, lettera a del Codice)
 
 Articolo 6
 ==========
-
 Livello ottimale territoriale delle strutture di protezione civile (art. 11, comma 3 del Codice)
 ------------------------------------------------------------------------------------------------
 
@@ -44,7 +42,6 @@ Livello ottimale territoriale delle strutture di protezione civile (art. 11, com
 
 Articolo 7
 ==========
-
 Indirizzi per i piani provinciali e comunali di protezione civile (art. 11, comma 1, lettera b del Codice)
 ----------------------------------------------------------------------------------------------------------
 
@@ -55,7 +52,6 @@ Indirizzi per i piani provinciali e comunali di protezione civile (art. 11, comm
 
 Articolo 8
 ==========
-
 Province(art. 11, comma 1, lettera o del Codice)
 ------------------------------------------------
 
@@ -73,7 +69,6 @@ Province(art. 11, comma 1, lettera o del Codice)
 
 Articolo 9
 ==========
-
 Interventi all'estero (art. 11, comma 1, lettera l del Codice)
 --------------------------------------------------------------
 
@@ -82,7 +77,6 @@ Interventi all'estero (art. 11, comma 1, lettera l del Codice)
 
 Articolo 10
 ===========
-
 Spegnimento incendi boschivi(art. 11, comma 1, lettera m del Codice)
 --------------------------------------------------------------------
 
@@ -91,7 +85,6 @@ Spegnimento incendi boschivi(art. 11, comma 1, lettera m del Codice)
 
 Articolo 11
 ===========
-
 Formazione e sensibilizzazione (art. 11, comma 1, lettera p del Codice)
 -----------------------------------------------------------------------
 
