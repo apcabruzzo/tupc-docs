@@ -6,7 +6,7 @@ Proposta di legge T.U. “Protezione civile regionale”
 Capo IV - Rapporti con strutture statali
 ========================================
 
-===========
+
 Articolo 16 
 ===========
 
@@ -18,7 +18,7 @@ Concorso e coordinamento (art. 11, comma 1, lettera c e g del Codice)
 2)	La Giunta regionale, con deliberazione, d’intesa con le Prefetture, definisce le modalità di coordinamento, in ambito regionale, tra Regione e strutture operative statali per l’esecuzione degli interventi urgenti e lo svolgimento dei servizi di emergenza, nel rispetto delle competenze di cui all'articolo 9 e all'articolo 10 del Codice.
 
 
-===========
+
 Articolo 17
 ===========
 
