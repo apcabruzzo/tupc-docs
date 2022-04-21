@@ -1,8 +1,8 @@
 Progetto, Argomento
 ===================
 
-Questo repository contiene la documentazione relativa a [NOME PROGETTO](). 
-In particolare, qui viene trattato [ARGOMENTO opzionale]().
+Questo repository contiene la documentazione relativa a [TU Protezione Civile](). 
+In particolare, qui viene trattato [come collaborare per la stesura collaborativa del TU]().
 
 Link
 ----
