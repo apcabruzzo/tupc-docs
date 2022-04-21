@@ -7,7 +7,7 @@ Capo I – Principi Generali
 ==========================
 
 
-==========
+
 Articolo 1
 ==========
 
@@ -16,7 +16,7 @@ Finalità
 1) La presente legge disciplina, in attuazione dell'articolo 11 del decreto legislativo 2 gennaio 2018 n. 1 (“Codice della protezione civile”) (di seguito denominato Codice), l’organizzazione ed il funzionamento del sistema di protezione civile nell’ambito del territorio regionale, assicurando lo svolgimento delle attività di protezione civile volte alla previsione, prevenzione e mitigazione dei rischi, alla gestione delle emergenze e al loro superamento (articolo 2 del Codice), nonché il relativo adeguamento alle direttive di protezione civile, adottate dal Dipartimento nazionale competente, ai sensi dell’articolo 15 del medesimo.
 
 
-==========
+
 Articolo 2
 ==========
 
@@ -26,7 +26,7 @@ Riferimenti al “Codice di protezione civile” e rinvio
 2)	Per quanto non direttamente disciplinato dalla presente legge, si rinvia alle disposizioni contenute nella normativa nazionale vigente in materia di protezione civile che trovano attuazione mediante l’adozione di appositi provvedimenti regionali.
 
 
-==========
+
 Articolo 3
 ==========
 Attuazione amministrativa
