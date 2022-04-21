@@ -7,7 +7,7 @@ Proposta di legge T.U. “Protezione civile regionale”
 Capo III – Volontariato
 =======================
 
-===========
+
 Articolo 12
 ===========
 
@@ -20,7 +20,7 @@ Volontariato regionale(art. 11, comma 1, lettera n del Codice)
 4)	Nel rispetto delle disposizioni di cui al Capo V del Codice, la Giunta regionale definisce, con deliberazione, nell'ambito del piano di cui all'articolo 5, le modalità di utilizzo dei soggetti iscritti nell'elenco territoriale regionale nonché gli interventi del volontariato in forma occasionale.
 5)	Le disposizioni del decreto legislativo 3 luglio 2017, n. 117 (“Codice del Terzo settore”) si applicano al volontariato di protezione civile in quanto compatibili.
 
-===========
+
 Articolo 13
 ===========
 
@@ -31,7 +31,7 @@ Benefici per il volontariato organizzato (art. 11, comma 1, lettera n del Codice
 2)	Ove il coordinamento dell'intervento da parte dei soggetti iscritti nell'elenco territoriale regionale sia effettuato dalla struttura regionale di cui all'articolo 18, i benefici di cui al comma 1 sono a carico del bilancio regionale.
 
 
-===========
+
 Articolo 14
 ===========
 
@@ -45,7 +45,7 @@ Comitato del volontariato di protezione civile (art. 11, comma 1, lettera n del 
 5)	La partecipazione al Comitato non prevede alcun compenso.
 
 
-===========
+
 Articolo 15
 ===========
 
