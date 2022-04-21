@@ -56,16 +56,20 @@ Articolo 8
 Province(art. 11, comma 1, lettera o del Codice)
 ------------------------------------------------
 
-1) Alle Province, quali enti di area vasta, sono attribuite le seguenti funzioni in materia di protezione civile:
- a)	previsione e prevenzione dei rischi: 
-  1.gestione delle procedure di allertamento mediante la sala operativa provinciale; 2.rilevazione, raccolta e elaborazione dei relativi dati sul territorio provinciale; 3.attività di formazione, in concorso con la struttura regionale di cui all'articolo 18; 
- b)	pianificazione provinciale: 
-  1.adozione del piano provinciale di protezione civile, secondo quanto disposto dall’articolo 7 della presente legge ed in raccordo con la Prefettura, anche con riferimento alla relativa attuazione; 2.aggiornamento e verifica periodica del piano provinciale di protezione civile, anche mediante apposite esercitazioni;
- c)	vigilanza sulla individuazione, da parte delle proprie strutture di protezione civile, dei servizi urgenti, anche di natura tecnica, da attivare in caso di emergenza: 
-  1.supporto ai comuni per il superamento delle emergenze di cui all’articolo 7, comma 1, lettera a) del Codice, in attuazione di quanto previsto dall’articolo 11, comma 3 del Codice medesimo;  
-  2.raccordo con la Prefettura territorialmente competente per l’attuazione del piano provinciale di protezione civile; 
-  3.raccolta e successiva valutazione delle segnalazioni degli interventi pubblici necessari, a seguito di un evento effettuate dagli enti locali, secondo le indicazioni della struttura regionale di cui all’articolo 18. 
-2)	Per lo svolgimento delle funzioni di cui al comma 1, tenuto conto delle esigenze di effettività delle stesse, la Giunta regionale, con deliberazione, stabilisce le risorse finanziarie da assegnare alle Province e le relative modalità di riparto.
+1. Alle Province, quali enti di area vasta, sono attribuite le seguenti funzioni in materia di protezione civile:
+ a)	previsione e prevenzione dei rischi:
+  1) gestione delle procedure di allertamento mediante la sala operativa provinciale; 
+  2) rilevazione, raccolta e elaborazione dei relativi dati sul territorio provinciale; 
+  3) attività di formazione, in concorso con la struttura regionale di cui all'articolo 18;
+ b)	pianificazione provinciale:
+  1) adozione del piano provinciale di protezione civile, secondo quanto disposto dall’articolo 7 della presente legge ed in raccordo con la Prefettura, anche con riferimento alla relativa attuazione; 
+  2) aggiornamento e verifica periodica del piano provinciale di protezione civile, anche mediante apposite esercitazioni;
+ c)	vigilanza sulla individuazione, da parte delle proprie strutture di protezione civile, dei servizi urgenti, anche di natura tecnica, da attivare in caso di emergenza:
+  1) supporto ai comuni per il superamento delle emergenze di cui all’articolo 7, comma 1, lettera a) del Codice, in attuazione di quanto previsto dall’articolo 11, comma 3 del Codice medesimo; 
+  2) raccordo con la Prefettura territorialmente competente per l’attuazione del piano provinciale di protezione civile;
+  3) raccolta e successiva valutazione delle segnalazioni degli interventi pubblici necessari, a seguito di un evento effettuate dagli enti locali, secondo le indicazioni della struttura regionale di cui all’articolo 18.
+2.	Per lo svolgimento delle funzioni di cui al comma 1, tenuto conto delle esigenze di effettività delle stesse, la Giunta regionale, con deliberazione, stabilisce le risorse finanziarie da assegnare alle Province e le relative modalità di riparto.
+
 
 
 Articolo 9
