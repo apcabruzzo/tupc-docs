@@ -2,7 +2,7 @@ Proposta di legge T.U. “Protezione civile regionale”
 ===================
 
 Questo repository contiene la documentazione relativa alla [Proposta di legge T.U. “Protezione civile regionale”](http://www.patronato.info/news-novita-ultimissime/). 
-In particolare, qui viene trattato [come collaborare per la stesura collaborativa del TU]().
+In particolare, qui viene trattato [come collaborare per la stesura partecipata del TU]().
 
 Link
 ----
