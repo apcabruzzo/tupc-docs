@@ -53,7 +53,7 @@ Indirizzi per i piani provinciali e comunali di protezione civile (art. 11, comm
 
 Articolo 8
 ==========
-Province(art. 11, comma 1, lettera o del Codice)
+Province (art. 11, comma 1, lettera o del Codice)
 ------------------------------------------------
 
 1. Alle Province, quali enti di area vasta, sono attribuite le seguenti funzioni in materia di protezione civile:
@@ -82,7 +82,7 @@ Interventi all'estero (art. 11, comma 1, lettera l del Codice)
 
 Articolo 10
 ===========
-Spegnimento incendi boschivi(art. 11, comma 1, lettera m del Codice)
+Spegnimento incendi boschivi (art. 11, comma 1, lettera m del Codice)
 --------------------------------------------------------------------
 
 1)	Per lo spegnimento degli incendi boschivi si applica quanto previsto dalla normativa regionale  di riferimento, in conformità alle previsioni di cui alla  legge 21 novembre 2000, n. 353 e successive modificazioni , nonché al decreto legislativo 19 agosto 2016, n. 177. 
