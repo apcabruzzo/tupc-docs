@@ -64,7 +64,8 @@ Capo VI – GESTIONE DELLE EMERGENZE
 
 Capo VII - DISPOSIZIONI FINALI
 ------------------------------
-- Art. 28 - Attuazione regionale Art. 29 - Norma finanziaria
+- Art. 28 - Attuazione regionale 
+- Art. 29 - Norma finanziaria
 - Art. 30 - Abrogazioni e periodo transitorio
 
 
