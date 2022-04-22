@@ -10,7 +10,6 @@ Capo VI - Gestione delle emergenze
 
 Articolo 23
 ===========
-
 Stato di mobilitazione regionale (art. 23 del Codice)
 -----------------------------------------------------
 1)	In attuazione dell’articolo 23, comma 4 del Codice, in occasione o in vista di un’emergenza di cui all’articolo 7, comma 1, lettera b) del Codice, il Presidente della Giunta regionale può disporre per la durata massima di sessanta giorni, con proprio decreto, la mobilitazione straordinaria del sistema regionale di protezione civile, a supporto dell’ambito territoriale regionale interessato, anche mediante l’attivazione, ove necessario, della colonna mobile regionale di protezione civile,
