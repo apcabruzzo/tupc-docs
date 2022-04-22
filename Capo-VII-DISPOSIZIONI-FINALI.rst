@@ -6,13 +6,10 @@ Proposta di legge T.U. “Protezione civile regionale”
 Capo VII - Disposizioni finali
 ==============================
 
-
 Articolo 28
 ===========
-
 Attuazione regionale
 --------------------
-
 1)	Il Consiglio regionale adotta la deliberazione di cui all'articolo 6, comma 3 entro sei mesi dalla pubblicazione in Gazzetta Ufficiale della direttiva di cui all’articolo 18, comma 3 del Codice.
 2)	Il Presidente della Giunta regionale adotta i decreti di cui agli articoli 14 e 17 entro sei mesi dalla entrata in vigore della presente legge. 
 3)  La  Giunta  regionale  adotta,  entro sei mesi	dalla entrata in vigore della presente legge, le deliberazioni di cui ai seguenti articoli:
@@ -35,10 +32,8 @@ Attuazione regionale
 
 Articolo 29
 ===========
-
 Norma finanziaria
 -----------------
-
 1)	Per il finanziamento di quanto previsto all’articolo 8 della presente legge, è autorizzata la spesa di euro 1.000.000,00 per ciascuno degli anni 2021, 2022, 2023 cui si fa fronte con le risorse stanziate sulla Missione 11 “Soccorso civile” Programma 01 “Sistema di protezione civile” Titolo 1 “Spese correnti” del bilancio di previsione 2020/2022.
 2)	Per il finanziamento di quanto previsto all’articolo 15 della presente legge, è autorizzata la spesa di euro 100.000,00 per l’annualità 2021 ed euro 40.000 per ciascuna annualità per ciascuna annualità 2022 e 2023 cui si cui si cui si fa fronte con le risorse stanziate sulla Missione “Soccorso civile” Programma 01 “Sistema di protezione civile” Titolo 2 “Spese in conto capitale” del bilancio di previsione 2021/2023.
 3)	.
@@ -54,10 +49,8 @@ Norma finanziaria
 
 Articolo 30
 ===========
-
 Abrogazioni e periodo transitorio
 ---------------------------------
-
 1)	Dalla data di entrata in vigore della presente legge, sono abrogate le seguenti leggi regionali:
   a)	legge regionale 14 dicembre 1993, n.72 Disciplina delle attività regionali di protezione civile
 2)	Dalla data di entrata in vigore della presente legge, sono altresì abrogati i seguenti regolamenti regionali ,,,,,,,,,,,,,, (ove presenti) ,,,,,,,,,,,,
