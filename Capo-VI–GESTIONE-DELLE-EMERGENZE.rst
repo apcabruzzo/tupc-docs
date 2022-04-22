@@ -13,7 +13,6 @@ Articolo 23
 
 Stato di mobilitazione regionale (art. 23 del Codice)
 -----------------------------------------------------
-
 1)	In attuazione dell’articolo 23, comma 4 del Codice, in occasione o in vista di un’emergenza di cui all’articolo 7, comma 1, lettera b) del Codice, il Presidente della Giunta regionale può disporre per la durata massima di sessanta giorni, con proprio decreto, la mobilitazione straordinaria del sistema regionale di protezione civile, a supporto dell’ambito territoriale regionale interessato, anche mediante l’attivazione, ove necessario, della colonna mobile regionale di protezione civile,
 2)	 nonché del volontariato organizzato iscritto nell'elenco territoriale regionale.
 3)	Costituiscono presupposto per l’adozione del decreto di cui al comma 1, gli eventi che possano manifestarsi con intensità tale da compromettere la vita, l’integrità fisica o beni di primaria importanza. 
@@ -28,7 +27,6 @@ Articolo 24
 ===========
 Stato di emergenza regionale (art. 11, comma 1, lettera f del Codice)
 ---------------------------------------------------------------------
-
 1)	In presenza di un’emergenza di cui all’articolo 7, comma 1, lettera b) del Codice, il Presidente della Giunta regionale dichiara, con proprio decreto, lo stato di emergenza regionale, determinandone durata ed estensione territoriale.
 2)	Il Presidente della Giunta regionale può richiedere, ove necessario e valutata la gravità ed estensione dell’evento medesimo, lo stato di emergenza nazionale di cui all’articolo 7, comma 1, lettera c) del Codice.
 3)	La durata dello stato di emergenza regionale non può superare i sei mesi ed è prorogabile di ulteriori sei mesi.
@@ -50,7 +48,6 @@ Articolo 25
 ===========
 Stato di emergenza locale (art. 11, commi 2 e 3 del Codice)
 -----------------------------------------------------------
-
 1)	In presenza di un’emergenza di cui all’articolo 7, comma 1, lettera a) del Codice, può essere dichiarato lo stato di emergenza locale. 
 2)	La Giunta regionale, con deliberazione, nell'ambito del piano di cui all'articolo 5, disciplina i presupposti e le modalità di gestione dello stato di emergenza locale. 
 3)	Nel bilancio regionale può essere istituito un apposito fondo per il concorso da parte della Regione al finanziamento di interventi da eseguire a seguito di uno stato di emergenza locale. 
@@ -60,7 +57,6 @@ Articolo 26
 ===========
 Deroghe alla normativa regionale
 --------------------------------
-
 1) Ove necessario per fronteggiare situazioni di emergenza, al fine di evitare o rimuovere condizioni di rischio per la pubblica incolumità, il Presidente della Giunta regionale può adottare, nel rispetto dei principi generali dell'ordinamento giuridico, ordinanze in deroga alla legislazione regionale riservata, nonché, nel rispetto dei principi fondamentali della legislazione statale, a quella concorrente. 
 
 
@@ -68,7 +64,6 @@ Articolo 27
 ===========
 Interventi per la ripresa delle normali condizioni di vita nelle aree colpite da eventi calamitosi(art. 11, comma 1, lettera f del Codice)
 ------------------------------------------------------------------------------------------------------------------------------------------
-
 1)	A seguito della dichiarazione di stato di emergenza di cui all’articolo 24, la Regione può attivare la ricognizione dei fabbisogni per il ripristino delle strutture e delle infrastrutture, pubbliche e private, danneggiate nonché dei danni subiti dalle attività economiche e produttive, dai beni culturali e paesaggistici e dal patrimonio edilizio. 
 2)	Sulla base delle risultanze di tale ricognizione e nei limiti delle risorse disponibili sul bilancio regionale, la Regione può avviare, anche parzialmente, l’attuazione delle prime misure per far fronte alle esigenze segnalate. 
 3)	La Giunta regionale, con deliberazione, nell'ambito del piano di cui all'articolo 5, individua le procedure nonché il soggetto competente per la ricognizione del fabbisogno e per l’attuazione degli interventi di cui al comma 1. 
