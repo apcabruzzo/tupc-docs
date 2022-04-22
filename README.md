@@ -1,4 +1,4 @@
-Proposta di legge T.U. “Protezione civile regionale”
+Proposta di legge T.U. “Protezione Civile Regionale”
 ===================
 
 Questo repository contiene la documentazione relativa alla [Proposta di legge T.U. “Protezione civile regionale”](http://www.patronato.info/news-novita-ultimissime/). 
