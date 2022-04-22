@@ -13,7 +13,6 @@ Articolo 12
 
 Volontariato regionale(art. 11, comma 1, lettera n del Codice)
 --------------------------------------------------------------
-
 1)	Il volontariato organizzato, nonché i gruppi comunali di protezione civile  costituiti secondo le modalità promosse dai comuni di riferimento ai sensi dell'articolo 35 del Codice, partecipano alle attività di protezione civile, previa iscrizione nell'elenco territoriale previsto dall’art. 34 del Codice.
 2)	Nell’ambito delle attività di prevenzione non strutturale di protezione civile ed in attuazione delle disposizioni nazionali in materia di allertamento per il rischio idrogeologico ed idraulico, il volontariato organizzato partecipa alle attività di presidio idraulico territoriale previste dalla legge regionale di riferimento.
 3)	La Regione riconosce il volontariato che opera a titolo personale e responsabilmente, in forma occasionale, in situazioni di emergenza, per i primi interventi immediati direttamente riferiti al proprio ambito personale, familiare e di prossimità.
@@ -23,7 +22,6 @@ Volontariato regionale(art. 11, comma 1, lettera n del Codice)
 
 Articolo 13
 ===========
-
 Benefici per il volontariato organizzato (art. 11, comma 1, lettera n del Codice)
 ---------------------------------------------------------------------------------
 
@@ -34,7 +32,6 @@ Benefici per il volontariato organizzato (art. 11, comma 1, lettera n del Codice
 
 Articolo 14
 ===========
-
 Comitato del volontariato di protezione civile (art. 11, comma 1, lettera n del Codice)
 ---------------------------------------------------------------------------------------
 
@@ -48,9 +45,7 @@ Comitato del volontariato di protezione civile (art. 11, comma 1, lettera n del 
 
 Articolo 15
 ===========
-
 Contributi (art. 37 del Codice)
 -------------------------------
-
 1)	La Regione può concedere al volontariato organizzato, di cui all'articolo 12, comma 1, contributi per la realizzazione di progetti finalizzati al potenziamento della capacità operativa, al miglioramento della preparazione tecnica e allo sviluppo della resilienza delle comunità.
 2)	La Giunta regionale, con deliberazione, disciplina l’erogazione dei contributi di cui al comma 1, tenuto conto delle risorse regionali disponibili e dei criteri approvati dal Dipartimento di protezione civile, ai sensi dell’articolo 37, comma 2 del Codice.
