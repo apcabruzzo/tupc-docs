@@ -1,5 +1,5 @@
 ====================================================
-Proposta di legge T.U. “Protezione civile regionale”
+Proposta di legge T.U. “Protezione civile regionale”.
 ====================================================
 
 ==========================
