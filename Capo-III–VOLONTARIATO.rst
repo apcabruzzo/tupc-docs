@@ -8,7 +8,7 @@ Capo III – Volontariato
 =======================
 
 
-Articolo 18
+Articolo 12
 ===========
 
 Volontariato regionale(art. 11, comma 1, lettera n del Codice)
