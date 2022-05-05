@@ -6,7 +6,7 @@ Proposta di legge T.U. “Protezione civile regionale”
 Capo II - Attività di protezione civile
 =======================================
 
-Articolo 334jhkhkjkh
+Articolo 4
 ==========
 Disciplina delle attività di protezione civile (art. 11, comma 1, lettera a del Codice)
 ---------------------------------------------------------------------------------------
