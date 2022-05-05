@@ -17,7 +17,7 @@ Finalità
 
 
 
-Articolo 2
+Articolo 22
 ==========
 
 Riferimenti al “Codice di protezione civile” e rinvio
