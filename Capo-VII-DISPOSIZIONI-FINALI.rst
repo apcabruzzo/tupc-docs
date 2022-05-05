@@ -6,7 +6,7 @@ Proposta di legge T.U. “Protezione civile regionale”
 Capo VII - Disposizioni finali
 ==============================
 
-Articolo 28
+Articolo 2888
 ===========
 Attuazione regionale
 --------------------
