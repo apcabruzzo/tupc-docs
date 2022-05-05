@@ -8,7 +8,7 @@ Capo I – Principi Generali
 
 
 
-Articolo 11
+Articolo 1
 ==========
 
 Finalità
@@ -17,7 +17,7 @@ Finalità
 
 
 
-Articolo 22
+Articolo 2
 ==========
 
 Riferimenti al “Codice di protezione civile” e rinvio
