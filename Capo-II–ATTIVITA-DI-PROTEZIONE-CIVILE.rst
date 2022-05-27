@@ -45,7 +45,7 @@ Indirizzi per i piani provinciali e comunali di protezione civile (art. 11, comm
 1)	Il piano provinciale e il piano comunale di protezione civile, redatti nel rispetto degli indirizzi regionali di cui al successivo comma 3, sono approvati con delibera consiliare della Provincia e del Comune, previa valutazione del rispetto degli indirizzi regionali da parte della struttura regionale di cui all'articolo 18.
 2)	Il piano provinciale di protezione civile è altresì approvato in raccordo con la Prefettura territorialmente competente. 
 3)	La Giunta regionale, con deliberazione, nell'ambito del piano di cui all'articolo 5, definisce gli indirizzi regionali per la redazione dei piani di cui al comma 1 ed individua le modalità relative alla loro approvazione, revisione e valutazione periodica. 
- 
+ hh
 Articolo 8
 ==========
 Province (art. 11, comma 1, lettera o del Codice)
