@@ -36,7 +36,7 @@ Livello ottimale territoriale delle strutture di protezione civile (art. 11, com
 2)	Gli ambiti di cui al comma 1 sono individuati dalla Regione, nel rispetto delle disposizioni del Codice, all’interno dei confini amministrativi provinciali e raggruppando più comuni secondo un criterio di effettività delle funzioni di protezione civile, applicato in maniera omogenea sul territorio regionale.
 3)	L’individuazione degli ambiti di cui al presente articolo e la relativa disciplina è definita e approvata con deliberazione del Consiglio regionale, che costituisce parte del piano regionale di protezione civile ai sensi dell'articolo 5. 
 
-Articolo 7
+Articolo 7 
 ==========
 Indirizzi per i piani provinciali e comunali di protezione civile (art. 11, comma 1, lettera b del Codice)
 ----------------------------------------------------------------------------------------------------------
