@@ -16,6 +16,8 @@ Disciplina delle attività di protezione civile (art. 11, comma 1, lettera a del
   a) attività di previsione e prevenzione dei rischi;
   b) attività di gestione e superamento dell’emergenza, con particolare riferimento all’attività di segnalazione degli interventi ed a quella di ricognizione dei fabbisogni a seguito di un evento.
   
+  
+  
 3) Le autorità territoriali di protezione civile di cui al comma 1 esercitano altresì la funzione di vigilanza sullo svolgimento integrato e coordinato delle attività di protezione civile, con particolare riguardo alla attività di prevenzione non strutturale.
 
 Articolo 5
