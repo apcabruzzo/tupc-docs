@@ -1,9 +1,11 @@
 Proposta di legge T.U. “Protezione Civile Regionale”
 ===================
 
-Questo repository contiene la documentazione relativa alla Proposta di legge T.U. “Protezione civile regionale”. 
+La consultazione è uno strumento essenziale di partecipazione, che consente alle amministrazioni di raccogliere il contributo di tutti i soggetti interessati – cittadini, imprese e loro organizzazioni – nell'elaborazione delle decisioni pubbliche.
 
-In particolare, qui viene trattato [come collaborare per la stesura partecipata del T.U.](https://github.com/apcabruzzo/tupc-docs/wiki).
+Per rafforzare il ricorso alle consultazioni e aumentarne la qualità, l’efficacia e la trasparenza, l'Agenzia di Protezione Civile Regione Abruzzo ha redatto e pubblicato una prima bozza del T.U. “Protezione Civile Regionale”, un documento operativo rivolto a tutti i soggetti pubblici e privati che vorranno partecipare con proposte e commenti.
+
+Qui maggiori informazioni su [come collaborare per la stesura partecipata del T.U.](https://github.com/apcabruzzo/tupc-docs/wiki).
 
 Link
 ----
