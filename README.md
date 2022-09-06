@@ -9,7 +9,7 @@ Qui maggiori informazioni su [come collaborare per la stesura partecipata del T.
 
 Link
 ----
- - [Art. 9. Partecipazione democratica elettronica](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82~art9!vig=)
+ - Codice Amministrazione Digitale - [Art. 9. Partecipazione democratica elettronica](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82~art9!vig=)
  - [5° Piano d’Azione Nazionale per il governo aperto](https://open.gov.it/governo-aperto/piano-nazionale/5nap) - [Azione 1: Governance e strategia per il governo aperto](https://open.gov.it/governo-aperto/piano-nazionale/5nap/azione-1)
 
 Link alla [documentazione compilata su Docs Italia]().
